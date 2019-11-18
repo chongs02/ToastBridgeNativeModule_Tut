@@ -9,7 +9,6 @@ import com.facebook.react.ReactPackage;
 import com.facebook.soloader.SoLoader;
 
 import com.toastmodulebridge.CustomToastPackage;
-import com.toastmodulebridge.RNAudioplayerPackage;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
